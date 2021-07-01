@@ -1,9 +1,10 @@
-🔮 Owner of www.CursedCraft.com  
+🔮 Owner/Developer of www.CursedCraft.com  
 ☕ Java Developer Working With Minecraft and Hytale.  
 Specialising in Performance & User Experience.  
-🦈 Novice C# Unity Indie Game Developer  
-🖌️ Graphic Designer & Pixel Artist  
-🪑 Blockbench Modeller  
+🦈 Indie C# Unity Indie Game Developer    
+🖌️ Graphic Designer  
+💪🏻 Other skills include HTML, CSS, JavaScript, Pixel Art & 3D Modelling (Voxel)  
+🎶 Music Addict  
 🎮 Esports & Speedrunning Enthusiast
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hexedhero&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
